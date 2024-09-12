@@ -1,4 +1,11 @@
 ## Hi there 👋
+Hi, I'm Magma.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
 <!--
 **ttvmagma/ttvmagma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
